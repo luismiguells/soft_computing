@@ -28,7 +28,7 @@ Ensure you have the following installed:
 - **GCC** (GNU Compiler Collection)
 - **Make**
 
-## 📥 Dataset Download
+## Dataset Download
 
 The MNIST dataset consists of four files in the `idx-ubyte` format. You must download and extract them into the `data/` directory.
 
